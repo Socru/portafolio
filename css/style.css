@@ -1,0 +1,14 @@
+
+html{
+	scroll-behavior: smooth;
+	animation-duration: 500ms;
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+	width: 94%;
+	margin: 0 auto;
+}
